@@ -96,18 +96,29 @@ A list of reports related to timesheets and vacation days that may be useful for
 
 Chart-based reports of hours worked by day, week and month, per user. 
 
+![Individual timesheets](images/reports_individual.png)
+
 ### Timesheet: Multiple
 
-View chart-based reports of hours worked by day, week and month, for multiple employees, in one page.
+View chart-based reports of hours worked by day, week and month, for multiple employees, in one page. You can enter multiple employees in the user fields, or enter the manager name,
+and have it automatically populate the users who are working under that manager.
+
+![Multiple timesheets](images/reports_multiple.png)
 
 ### Timesheet: Latest
 
 View time of latest timesheets per user. If someone has missed entering timesheet data, you can see it here.
 
+![Latest timesheets](images/reports_latest.png)
+
 ### Timesheet: Summary
 
 View a summary of total timesheets and average hours worked per day for that employee.
 
+![Summary of timesheets](images/reports_summary.png)
+
 ### Vacations
 
 View a list of vacation days, current approval status, who approved it, etc, along with remaining vacation days for that user.
+
+![Vactions](images/reports_vacations.png)
