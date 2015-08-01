@@ -15,24 +15,24 @@ This lets you add and edit your contacts. You can enter them one at a time, or i
 
 The contact view page lets you easily add an event or deal for that contact straight from the contact page.
 
-![Contacts](images/contacts.png)
+![Contacts](/images/crm/contacts.png)
 
 ## Contact Categories
 
 This lets you create new categories for your various contacts. Not happy with the basic Lead, Opportunity and Account types? No problem: create your own! You can also color code
 the categories so that you can easily view the various categories of your contacts.
 
-![Contact categories](images/contact_categories.png)
+![Contact categories](/images/crm/contact_categories.png)
 
 ## Events
 
 Add events related to your contacts, such as phone calls, deals closed, etc. You can view your events in a list or in a calendar.
 
-![Events](images/events.png)
+![Events](/images/crm/events.png)
 
 ## Deals
 
 Deals are any monetary transactions you have had or planned to have with your contacts. Keep track of which deals were on the table, and closed, and their amounts, and be able to see
 reports over time.
 
-![Deals](images/deals.png)
+![Deals](/images/crm/deals.png)
