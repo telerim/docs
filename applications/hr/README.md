@@ -98,6 +98,8 @@ Chart-based reports of hours worked by day, week and month, per user.
 
 ### Timesheet: Multiple
 
+View chart-based reports of hours worked by day, week and month, for multiple employees, in one page.
+
 ### Timesheet: Latest
 
 View time of latest timesheets per user. If someone has missed entering timesheet data, you can see it here.
