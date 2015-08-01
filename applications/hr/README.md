@@ -121,4 +121,4 @@ View a summary of total timesheets and average hours worked per day for that emp
 
 View a list of vacation days, current approval status, who approved it, etc, along with remaining vacation days for that user.
 
-![Vactions](images/reports_vacations.png)
+![Vacations](/screenshots/reports_vacations.png)
