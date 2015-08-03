@@ -19,7 +19,8 @@ Managers also get additional views that enable them to see how their team is per
 
 The dashboard is the first page that you see when you login to the HR system. It looks like this.
 
-![Dashboard](/images/hrm/dashboard.png)
+![Dashboard 1](/images/hrm/dashboard1.jpg)
+![Dashboard 2](/images/hrm/dashboard2.jpg)
 
 The dashboard consists of several components:
 
@@ -29,7 +30,7 @@ The dashboard consists of several components:
 * Hours worked: based on the timesheet you've entered, you can see the hours you've worked every day. A link leads to more detailed reports.
 * Announcements: latest company-wide announcements, with a link to a page where you can see an archive of all announcements from the company.
 
-![Manager Dashboard](/images/hrm/dashboard_manager.png)
+![Manager Dashboard](/images/hrm/dashboard_manager.jpg)
 
 A manager's dashboard view consists of one additional row:
 
@@ -40,7 +41,7 @@ A manager's dashboard view consists of one additional row:
 
 This is a calendar-based view of timesheets. By default, it shows the weekly view of timesheets, though it is possible to view it in daily or monthly formats as well.
 
-![Timesheet calendar](/images/hrm/timesheet_calendar.png)
+![Timesheet calendar](/images/hrm/timesheet_calendar.jpg)
 
 If your administrator has set up the right privileges, you will be able to add and edit timesheets using this calendar view. If not, you can only view timesheets using the calendar.
 
@@ -52,11 +53,11 @@ A list of vacations is visible through the vacations calendar view. You can also
 
 Users can add a vacation day by clicking on the day on the calendar view.
 
-![Vacations calendar](/images/hrm/vacations_calendar.png)
+![Vacations calendar](/images/hrm/vacations_calendar.jpg)
 
 Managers can see vacations for all their staff, and approve or change status for those vacations.
 
-![Vacations add](/images/hrm/vacations_add.png)
+![Vacations add](/images/hrm/vacations_add.jpg)
 
 Users can also add vacations through a form, accessible from the "Vacations > Add Vacation" menu option.
 
@@ -66,27 +67,27 @@ The organization menu contains information that may be useful to any employee in
 
 ### Announcements
 
-An archive page listing all company-wide announcements. Clicking on an announcement will show the full details of the announcement.Dashboard
+An archive page listing all company-wide announcements. Clicking on an announcement will show the full details of the announcement.
 
-![Company announcements](/images/hrm/organization_announcements.png)
+![Company announcements](/images/hrm/organization_announcements.jpg)
 
 ### Directory
 
 A company directory with contact information for all users, as well as details about their department, manager, etc.
 
-![Company directory](/images/hrm/organization_directory.png)
+![Company directory](/images/hrm/organization_directory.jpg)
 
 ### Organization chart
 
 A tree-based view of who reports to whom in the company, in the form of an org-chart.
 
-![Org chart](/images/hrm/organization_chart.png)
+![Org chart](/images/hrm/organization_chart.jpg)
 
 ### Holidays
 
 A list of officially celebrated company holidays.
 
-![Holidays](/images/hrm/organization_holidays.png)
+![Holidays](/images/hrm/organization_holidays.jpg)
 
 ## Reports 
 
@@ -96,29 +97,29 @@ A list of reports related to timesheets and vacation days that may be useful for
 
 Chart-based reports of hours worked by day, week and month, per user. 
 
-![Individual timesheets](/images/hrm/reports_individual.png)
+![Individual timesheets](/images/hrm/reports_individual.jpg)
 
 ### Timesheet: Multiple
 
 View chart-based reports of hours worked by day, week and month, for multiple employees, in one page. You can enter multiple employees in the user fields, or enter the manager name,
 and have it automatically populate the users who are working under that manager.
 
-![Multiple timesheets](/images/hrm/reports_multiple.png)
+![Multiple timesheets](/images/hrm/reports_multiple.jpg)
 
 ### Timesheet: Latest
 
 View time of latest timesheets per user. If someone has missed entering timesheet data, you can see it here.
 
-![Latest timesheets](/images/hrm/reports_latest.png)
+![Latest timesheets](/images/hrm/reports_latest.jpg)
 
 ### Timesheet: Summary
 
 View a summary of total timesheets and average hours worked per day for that employee.
 
-![Summary of timesheets](/images/hrm/reports_summary.png)
+![Summary of timesheets](/images/hrm/reports_summary.jpg)
 
 ### Vacations
 
 View a list of vacation days, current approval status, who approved it, etc, along with remaining vacation days for that user.
 
-![Vacations](/images/hrm/reports_vacations.png)
+![Vacations](/images/hrm/reports_vacations.jpg)
