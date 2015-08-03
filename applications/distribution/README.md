@@ -19,13 +19,19 @@ In addition to storing data using the entities above, the distribution system he
 clicking on the location will take you to the detailed page showing all distribution, problems and other details for that location.
 * **Graph and table reports**: view highly detailed charts and reports of all your distribution data, either in table format (from which you can also download to Excel) or in graph format.
 
+## Dashboard 
+
+The dashboard shows a summary of the various locations, in both a map and list format. The dashboard also shows the list of the latest problems related to distribution that have been entered in the system.
+
+![Dashboard](/images/distribution/dashboard.jpg)
+
 ## Locations
 
 Locations allow you to name and place a distribution location on a map. 
 
 "Locations > Map Editor" on the menu will allow you to add and edit the various locations in the map, as well as move around locations.
 
-![Map editor](/images/distribution/locations_map.png)
+![Map editor](/images/distribution/locations_map.jpg)
 
 Clicking on a location in the Full Map will show the details for that location, and clicking on the name will take you to the location details page.
 
@@ -33,14 +39,14 @@ Clicking on a location in the Full Map will show the details for that location, 
 
 Each location belongs to a category, which lets you categorize locations. You can also set a color for that category, and it shows up in a different color on the map.Distribution Maps
 
-![Location Categories](/images/distribution/location_categories.png)
+![Location Categories](/images/distribution/location_categories.jpg)
 
 ## Routes
 
 In addition to location, you will often use routes to do the actual distribution to various locations. The Routes feature allows you to create, edit and view the routes along 
 which the distribution is done.
 
-![Routes](/images/distribution/routes.png)
+![Routes](/images/distribution/routes.jpg)
 
 ## Distribution
 
@@ -49,18 +55,18 @@ The actual numbers for distribution, which are entered into the system for histo
 You can enter distribution data using "Distribution > Add Distribution" from the menu, and that allows you to enter data for all locations, or a filtered list of locations, for a 
 specific day.
 
-![Add distribution](/images/distribution/distribution_add.png)
+![Add distribution](/images/distribution/distribution_add.jpg)
 
 ## Problems
 
 You can store a list of problems encountered with various locations using the "Problems" menu. This lets a user report a problem with the location, which can be fixed in due time.
 
-![Problems list](/images/distribution/problems_list.png)
+![Problems list](/images/distribution/problems_list.jpg)
 
 You can also upload photos and other files related to the problem, and view them in the detailed view page. This lets you keep an archive of all problems, and see which locations have
 the most problem, and what are the most frequently occuring problems.
 
-![Problems edit](/images/distribution/problems_edit.png)
+![Problems edit](/images/distribution/problems_edit.jpg)
 
 ## Reports
 
@@ -71,7 +77,7 @@ You can view reports for your distribution numbers in a few places.
 This is a full screen display of the locations on a Google Map, and clicking on any of the locations will pop up a graph showing the latest distribution numbers. You can click on the location
 for full details of that location.
 
-![Full map](/images/distribution/full_map.png)
+![Full map](/images/distribution/full_map.jpg)
 
 ### Graph report
 
@@ -79,11 +85,11 @@ Using "Distribution > Graph report" from the menu, you get to a graph page that 
 category. Clicking on a category name will take you to a detailed page that shows a further breakdown for each location in that category. You can change the date range to view longer time 
 periods.
 
-![Graph report](/images/distribution/report_graph.png)
+![Graph report](/images/distribution/report_graph.jpg)
 
 ### Table report
 
 Using "Distribution > Table report" from the menu, you get to a page that shows you total distribution numbers for each location in a table format, similar to a spreadsheet view. You can
 download an Excel file from this page with the same data, if you want to do more detailed analysis with those numbers in Excel.
 
-![Table report](/images/distribution/report_table.png)
+![Table report](/images/distribution/report_table.jpg)
