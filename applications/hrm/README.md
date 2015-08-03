@@ -17,12 +17,7 @@ Managers also get additional views that enable them to see how their team is per
 
 ## Dashboard
 
-The dashboard is the first page that you see when you login to the HR system. It looks like this.
-
-![Dashboard 1](/images/hrm/dashboard1.jpg)
-![Dashboard 2](/images/hrm/dashboard2.jpg)
-
-The dashboard consists of several components:
+The dashboard is the first page that you see when you login to the HR system. The dashboard consists of several components:
 
 * Clock in and out: the "start" and "stop" buttons let you clock in (when you get into work), and clock out (when you leave work).
 * Recent timesheets: you can view your latest timesheets in this area.
@@ -30,12 +25,15 @@ The dashboard consists of several components:
 * Hours worked: based on the timesheet you've entered, you can see the hours you've worked every day. A link leads to more detailed reports.
 * Announcements: latest company-wide announcements, with a link to a page where you can see an archive of all announcements from the company.
 
-![Manager Dashboard](/images/hrm/dashboard_manager.jpg)
+![Dashboard 1](/images/hrm/dashboard1.jpg)
+![Dashboard 2](/images/hrm/dashboard2.jpg)
 
 A manager's dashboard view consists of one additional row:
 
 * Vacations pending approval: a list of all vacations of staff reporting to the manager which have to be approved.
 * Vacations this week: a list of all staff on vacation this week, and their vacation days.
+
+![Manager Dashboard](/images/hrm/dashboard_manager.jpg)
 
 ## Timesheet calendar
 

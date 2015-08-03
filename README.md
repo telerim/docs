@@ -8,7 +8,7 @@ This repository contains the documentation for all the Zhen software application
 * [CRM](applications/crm/README.md): Customer Relationship Management, similar to Salesforce, vTiger, etc
 * [Documentation wiki](applications/docs/README.md): Documentation and wiki system, similar to Confluence, MediaWiki, etc
 * [Distribution](applications/distribution/README.md): Distribution and mapping system, using Google Maps
-* [Human Resources](applications/hr/README.md): Human Resources system, to manage users, jobs, hours worked, vacations
+* [Human Resources](applications/hrm/README.md): Human Resources system, to manage users, jobs, hours worked, vacations
 * [Job Applications](applications/jobs/README.md): Job application system, letting users apply for jobs at your company
 * [Project Management](applications/projects/README.md): Project and task management system, like Basecamp and Asana
 * [Single Sign-On](applications/sso/README.md): Single sign on system, to let users login once and use all other systems
