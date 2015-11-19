@@ -1,6 +1,8 @@
 # CRM
 
-The CRM (Customer Relationship Management) system allows you to keep track of customers' contact details, record your communication with them and view reports related to this information over time. In addition, the system offers flexibility to the user in being able to customize the categories thereby tailoring the database to the user's own needs.The many shortcuts to edit data creates a user-friendly interface - one can access and alter information both on the dashboard page, through the individual sections or in the drop-down options on the top toolbar.
+The CRM (Customer Relationship Management) system allows you to keep track of customers' contact details, record your communication with them and view reports related to this information over time. In addition, the system offers flexibility to the user in being able to customize the categories thereby tailoring the database to the user's own needs.
+
+The many shortcuts to edit data creates a user-friendly interface - one can access and alter information both on the dashboard page, through the individual sections or in the drop-down options on the top toolbar.
 
 The CRM system allows you to keep a record of:
 
